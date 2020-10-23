@@ -61,6 +61,7 @@ loop do
    list(songs)
  when 'exit'
    break
+   help
  end
  end
    exit_jukebox
