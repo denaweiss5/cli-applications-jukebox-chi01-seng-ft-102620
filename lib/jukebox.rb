@@ -60,8 +60,8 @@ loop do
  when 'list'
    list(songs)
  when 'exit'
-   break
    puts "Please enter a command:"
+   break
  end
  end
    exit_jukebox
